@@ -3,7 +3,7 @@ public class HelloWorld {
     public static void main(String[] args){
         System.out.println("Hello World");
         // public : 메서드의 접근 제어자로 누구나 이 메서드에 접근할 수 있다는 의미
-        // static : 메서드에 static이 지정되어 있으면 이 메서드는 인스턴스를 생성하지 않아도 실행할 수 있음을 의미
+        // static : 메서드에 static이 지정되어 있으면 이 메서드는 인스턴스를 생성하지 않아도 실행할 수 있음을 의미, 얘는 클래스 메서드라서 객체를 만들지 않아도 '클래스명.메서드명' 형태로 호출 가능
         // void : 메서드의 리턴값이 없음을 의미, String[] : 문자열을 나타내는 자바의 자료형, args가 String[]의 변수명
         // System.out.println : 표준 출력으로 데이터를 보내는 자바의 내장 메서드, 문자열을 화면에 출력, 표준출력이란 프로그램에서 외부환경(os)으로 일반 메세지를 출력하는 것
     }
