@@ -6,7 +6,7 @@ public class Sample03_01 {
         double d = 33.14555454545454545;
 
         float f = 3333.144F;
-//        double g = 314e2;
+        double g = 314e2;
 //        int octal = 023;
 //        int hex = 0xC3;
 
