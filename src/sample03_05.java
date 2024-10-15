@@ -10,6 +10,7 @@ public class sample03_05 {
 
         String result = sb.toString(); //toString() 메서드는 stringbuffer를 string으로 형변환해줌
         System.out.println(result);
+
     }
 
 
